@@ -1,21 +1,25 @@
-<!-- Header minimalista animado en tonos neutros -->
+<!-- Header estético con Banner SVG estilizado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=220&section=header&text=Ferm%C3%ADn%20Blanco&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
 
-  <!-- Texto con efecto typing enfocado en profesionalismo -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=50&lines=Software+%26+Mobile+Developer+(DAM);100%25+Commitment+%7C+Results-Driven;Always+Delivering+Complete+Solutions;CEBEM+Student" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A8+Ferm%C3%ADn+Blanco+%E2%9C%A8;Software+%26+Mobile+Developer" alt="Header Typing" />
 
-  <p>
-    📍 <b>Vigo, Galicia</b> &nbsp;|&nbsp; 
-    🎓 <b>CEBEM</b> &nbsp;|&nbsp; 
-    📧 <a href="mailto:blancoramirezfermin@gmail.com">blancoramirezfermin@gmail.com</a>
-  </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=8B949E&center=true&vCenter=true&width=550&height=40&lines=DAM+Student+%40+CEBEM;100%25+Commitment+%7C+Results-Driven;Always+Delivering+Complete+Solutions;Passionate+About+Clean+Code" alt="Sub Header Typing" />
+</a>
+
+<br/>
+
+<p align="center">
+  📍 <b>Vigo, Galicia</b> &nbsp;•&nbsp; 
+  🎓 <b>CEBEM</b> &nbsp;•&nbsp; 
+  📧 <a href="mailto:blancoramirezfermin@gmail.com">blancoramirezfermin@gmail.com</a>
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e9f-1d2114f901e1.gif" width="100%">
+
+<br/>
 
 ### 🖤 Executive Summary & Philosophy
 
@@ -23,7 +27,9 @@
 
 Desarrollador enfocado en **aplicaciones móviles y arquitectura de software**. Me defino por un enfoque orientado a resultados, la máxima atención al detalle y una ética de trabajo intachable: **cada proyecto, tarea o funcionalidad asumida se lleva hasta su completa ejecución con código limpio, robusto y mantenible**.
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e9f-1d2114f901e1.gif" width="100%">
 
 ## 🎓 Formación & Enfoque Profesional
 
@@ -32,7 +38,7 @@ Desarrollador enfocado en **aplicaciones móviles y arquitectura de software**. 
 - 🎯 **Compromiso y Rigor:** Orientación total al cumplimiento de objetivos y entrega de software sin cabos sueltos.
 - 💡 **Evolución Continua:** Adquisición constante de nuevas competencias técnicas mediante proyectos de alto rendimiento.
 
----
+<br/>
 
 ## 🛠️ Stack Tecnológico & Dominio Técnico
 
@@ -47,14 +53,16 @@ Desarrollador enfocado en **aplicaciones móviles y arquitectura de software**. 
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e9f-1d2114f901e1.gif" width="100%">
 
 ## 🚀 Proyectos & Desarrollos
 
 <details open>
 <summary>📱 <b>Desarrollo Móvil</b></summary>
 
-* 📱 **[AppGimnasio](https://github.com/FerminBlancoRamirez/AppGimnasio):** Solución móvil nativa para la gestión integral y seguimiento de entrenamientos con arquitectura orientada a la eficiencia.
+* 📱 **[AppGimnasio](https://github.com/FerminBlancoRamirez/AppGimnasio):** Solución móvil nativa para la gestión integral y seguimiento de entrenamientos con arquitectura orientada a la eficiencia[cite: 1].
 * 📱 **[CalculadoraBasica](https://github.com/FerminBlancoRamirez/CalculadoraBasica):** Proyecto en Android Studio enfocado en la precisión del control de eventos e interfaz de usuario[cite: 1].
 </details>
 
@@ -65,22 +73,23 @@ Desarrollador enfocado en **aplicaciones móviles y arquitectura de software**. 
 * 📅 **[Planificador](https://github.com/FerminBlancoRamirez/planificador):** Aplicación web interactiva optimizada para la gestión estratégica de tareas y tiempos[cite: 1].
 </details>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e9f-1d2114f901e1.gif" width="100%">
 
 ## 📊 Métricas de Desarrollo
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FerminBlancoRamirez&show_icons=true&theme=dark&bg_color=161b22&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerminBlancoRamirez&layout=compact&theme=dark&bg_color=161b22&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FerminBlancoRamirez&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerminBlancoRamirez&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- Separador final con cierre impecable -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=10&section=footer" width="100%" />
-  <br/><br/>
   <sub>Excelencia en el desarrollo y entrega total | Fermín Blanco</sub>
 </div>
