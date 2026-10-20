@@ -1,44 +1,27 @@
-<!-- Cabecera de Alto Impacto Profesional -->
 <div align="center">
 
-<svg width="100%" height="210" viewBox="0 0 800 210" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fondo blanco/claro elegante con bordes suavemente redondeados -->
-  <rect width="100%" height="210" rx="12" fill="#FFFFFF"/>
-  <rect x="1" y="1" width="798" height="208" rx="11" stroke="#E5E7EB" stroke-width="2"/>
-  
-  <!-- Detalle superior sutil -->
-  <path d="M0 12C0 5.37258 5.37258 0 12 0H788C794.627 0 800 5.37258 800 12V40H0V12Z" fill="#F8FAFC"/>
-  
-  <!-- Nombre principal -->
-  <text x="50%" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="800" font-size="36" fill="#0F172A" text-anchor="middle" letter-spacing="1">FERMÍN BLANCO</text>
-  
-  <!-- Especialidad -->
-  <text x="50%" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="19" fill="#2563EB" text-anchor="middle">Desarrollador de Software &amp; Móvil</text>
-  
-  <!-- Puntos clave profesionales -->
-  <text x="50%" y="154" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="500" font-size="14" fill="#475569" text-anchor="middle">Estudiante de DAM en CEBEM  |  Compromiso 100%  |  Metodología Scrum</text>
-  
-  <!-- Ubicación y contacto -->
-  <text x="50%" y="182" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="500" font-size="13" fill="#64748B" text-anchor="middle">📍 Vigo, Galicia   •   📧 blancoramirezfermin@gmail.com</text>
-</svg>
+# 💻 Fermín Blanco
 
-<br/>
+### **Desarrollador de Software & Móvil**
 
-<!-- Animación de texto dinámico en tonos limpios -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=35&lines=Desarrollo+M%C3%B3vil+Android;Manejo+de+Tailwind+CSS;Cero+tareas+sin+finalizar;100%25+Enfoque+y+Seriedad+Profesional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=40&lines=Estudiante+de+DAM+en+CEBEM;Compromiso+al+100%25+%7C+Metodolog%C3%ADa+Scrum;Manejo+de+Tailwind+CSS;Nunca+dejo+una+tarea+sin+completar" alt="Typing SVG" />
 </a>
+
+<p align="center">
+  📍 <b>Vigo, Galicia</b> &nbsp;•&nbsp; 
+  🎓 <b>CEBEM (DAM)</b> &nbsp;•&nbsp; 
+  📧 <a href="mailto:blancoramirezfermin@gmail.com">blancoramirezfermin@gmail.com</a>
+</p>
+
+<!-- Ilustración limpia directamente alojada en GitHub CDN -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/coder.gif" width="340px" alt="Programador enfocado en su escritorio" />
 
 </div>
 
-<br/>
+---
 
-<!-- Disposición a 2 columnas: Texto profesional a la izquierda, animación a la derecha -->
-<table border="0" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr>
-    <td width="65%" valign="top" style="border: none; padding-right: 15px;">
-
-### 🖤 Resumen Ejecutivo & Filosofía
+### 🖤 Resumen Ejecutivo & Filosofía de Trabajo
 
 > *"La disciplina convierte el código en soluciones; el compromiso asegura su entrega completa y funcional."*
 
@@ -48,20 +31,10 @@ Desarrollador enfocado en **aplicaciones móviles y desarrollo de software**. Me
 
 ### 🎓 Formación & Enfoque Profesional
 
-- 🚀 **Grado Superior en DAM** — *CEBEM*
-- 📱 **Especialización:** Desarrollo móvil nativo (Android/Java), interfaces modernas y persistencia de datos.
-- ⚡ **Metodologías:** Trabajo ágil con **Scrum**, maquetación ágil con **Tailwind CSS** y control de versiones con Git.
+- 🚀 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — *CEBEM*
+- 📱 **Especialización:** Desarrollo móvil nativo (Android/Java), interfaces modernas y persistencia de datos backend.
+- ⚡ **Metodología & Herramientas:** Trabajo ágil con **Scrum**, diseño de interfaces rápidas con **Tailwind CSS** y control de versiones con Git.
 - 🎯 **Compromiso Real:** Rigor técnico, atención al detalle y enfoque orientado a finalizar cada requerimiento sin excepciones.
-
-    </td>
-    <td width="35%" align="center" valign="middle" style="border: none;">
-      <!-- Ilustración de programador trabajando exactamente a la derecha -->
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-314eb731-277a-4ec6-8a07-882255747683.gif" width="100%" style="max-width: 280px;" alt="Programador en escritorio" />
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ---
 
