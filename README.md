@@ -1,40 +1,27 @@
-<!-- BANNER BLANCO ELEGANTE Y UNIFICADO -->
+<!-- CABECERA EN BANNER BLANCO EMANANTE (SÍ RENDERIZA EN GITHUB) -->
 <div align="center">
 
-<svg width="100%" height="210" viewBox="0 0 800 210" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fondo Blanco Pulcro con Borde Fino -->
-  <rect width="100%" height="210" rx="14" fill="#FFFFFF"/>
-  <rect x="1" y="1" width="798" height="208" rx="13" stroke="#E2E8F0" stroke-width="2"/>
-  
-  <!-- Detalle estético superior gris tenue -->
-  <path d="M0 14C0 6.26801 6.26801 0 14 0H786C793.732 0 800 6.26801 800 14V42H0V14Z" fill="#F8FAFC"/>
-  
-  <!-- Nombre -->
-  <text x="50%" y="82" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="800" font-size="36" fill="#0F172A" text-anchor="middle" letter-spacing="1">FERMÍN BLANCO</text>
-  
-  <!-- Especialidad -->
-  <text x="50%" y="120" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="600" font-size="19" fill="#1E293B" text-anchor="middle">Desarrollador de Software &amp; Móvil</text>
-  
-  <!-- Formación y metodología -->
-  <text x="50%" y="154" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="500" font-size="14" fill="#475569" text-anchor="middle">Estudiante de DAM en CEBEM  |  Compromiso 100%  |  Metodología Scrum</text>
-  
-  <!-- Contacto -->
-  <text x="50%" y="182" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="500" font-size="13" fill="#64748B" text-anchor="middle">📍 Vigo, Galicia   •   📧 blancoramirezfermin@gmail.com</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&section=header&text=FERM%C3%8DN%20BLANCO&fontSize=38&fontColor=0f172a&animation=twinkling" width="100%" />
 
-<br/><br/>
+<br/>
 
 <!-- Animación de texto tipo typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=35&lines=Desarrollo+M%C3%B3vil+Android;Manejo+de+Tailwind+CSS;Cero+tareas+sin+finalizar;100%25+Enfoque+y+Seriedad+Profesional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=35&lines=Desarrollador+de+Software+%26+M%C3%B3vil;Estudiante+de+DAM+en+CEBEM;Compromiso+100%25+%7C+Metodolog%C3%ADa+Scrum;Manejo+de+Tailwind+CSS;Cero+tareas+sin+finalizar" alt="Typing SVG" />
 </a>
+
+<p align="center">
+  📍 <b>Vigo, Galicia</b> &nbsp;•&nbsp; 
+  🎓 <b>CEBEM (DAM)</b> &nbsp;•&nbsp; 
+  📧 <a href="mailto:blancoramirezfermin@gmail.com">blancoramirezfermin@gmail.com</a>
+</p>
 
 </div>
 
 <br/>
 
-<!-- GIF ALINEADO A LA DERECHA SIN MARCOS NI CUADRADOS -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/coder.gif" align="right" width="320px" alt="Programador formal" />
+<!-- DISPOSICIÓN: TEXTO A LA IZQUIERDA Y GIF A LA DERECHA (SIN BORDES NI CUADRADOS) -->
+<img src="https://media.giphy.com/media/qgQUGGAC3P4PP93836/giphy.gif" align="right" width="280px" alt="Programador trabajando" />
 
 ### 🖤 Resumen Ejecutivo & Filosofía de Trabajo
 
