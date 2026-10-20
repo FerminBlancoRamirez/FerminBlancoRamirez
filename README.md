@@ -1,41 +1,44 @@
-<!-- Banner Blanco/Claro Estilizado que engloba todo el encabezado -->
+<!-- Cabecera de Alto Impacto Profesional -->
 <div align="center">
 
-<svg width="100%" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="220" rx="16" fill="#FFFFFF"/>
-  <!-- Detalle estético superior en blanco brillante/gris tenue -->
-  <path d="M0 16C0 7.16344 7.16344 0 16 0H784C792.837 0 800 7.16344 800 16V50H0V16Z" fill="#F3F4F6"/>
+<svg width="100%" height="210" viewBox="0 0 800 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo blanco/claro elegante con bordes suavemente redondeados -->
+  <rect width="100%" height="210" rx="12" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="798" height="208" rx="11" stroke="#E5E7EB" stroke-width="2"/>
   
-  <!-- Texto del Nombre en el Banner Blanco -->
-  <text x="50%" y="85" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="800" font-size="38" fill="#111827" text-anchor="middle">Fermín Blanco</text>
+  <!-- Detalle superior sutil -->
+  <path d="M0 12C0 5.37258 5.37258 0 12 0H788C794.627 0 800 5.37258 800 12V40H0V12Z" fill="#F8FAFC"/>
   
-  <!-- Subtítulo Profesional -->
-  <text x="50%" y="125" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="20" fill="#374151" text-anchor="middle">Desarrollador de Software &amp; Móvil</text>
+  <!-- Nombre principal -->
+  <text x="50%" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="800" font-size="36" fill="#0F172A" text-anchor="middle" letter-spacing="1">FERMÍN BLANCO</text>
   
-  <!-- Formación y Especialidad -->
-  <text x="50%" y="160" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="500" font-size="15" fill="#4B5563" text-anchor="middle">Estudiante de DAM en CEBEM  |  100% Compromiso  |  Metodología Scrum</text>
+  <!-- Especialidad -->
+  <text x="50%" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="600" font-size="19" fill="#2563EB" text-anchor="middle">Desarrollador de Software &amp; Móvil</text>
   
-  <!-- Datos de contacto -->
-  <text x="50%" y="190" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="500" font-size="14" fill="#6B7280" text-anchor="middle">📍 Vigo, Galicia   •   📧 blancoramirezfermin@gmail.com</text>
+  <!-- Puntos clave profesionales -->
+  <text x="50%" y="154" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="500" font-size="14" fill="#475569" text-anchor="middle">Estudiante de DAM en CEBEM  |  Compromiso 100%  |  Metodología Scrum</text>
+  
+  <!-- Ubicación y contacto -->
+  <text x="50%" y="182" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="500" font-size="13" fill="#64748B" text-anchor="middle">📍 Vigo, Galicia   •   📧 blancoramirezfermin@gmail.com</text>
 </svg>
-
-<br/><br/>
-
-<!-- Animación dinámica de texto en español justo debajo -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=40&lines=Especialista+en+completar+proyectos;Manejo+de+Tailwind+CSS;Desarrollo+M%C3%B3vil+Android;Cero+tareas+sin+finalizar" alt="Typing SVG" />
-</a>
 
 <br/>
 
-<!-- Animación GIF verificada y alineada centrada -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlcHowaHByZnR5MGxpdGtrYml0NWkxbGZidDRiaWNldGpoYThneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwhLGL/giphy.gif" width="300px" alt="Programador enfocado" />
+<!-- Animación de texto dinámico en tonos limpios -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=35&lines=Desarrollo+M%C3%B3vil+Android;Manejo+de+Tailwind+CSS;Cero+tareas+sin+finalizar;100%25+Enfoque+y+Seriedad+Profesional" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br/>
 
-### 🖤 Resumen Ejecutivo y Filosofía de Trabajo
+<!-- Disposición a 2 columnas: Texto profesional a la izquierda, animación a la derecha -->
+<table border="0" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr>
+    <td width="65%" valign="top" style="border: none; padding-right: 15px;">
+
+### 🖤 Resumen Ejecutivo & Filosofía
 
 > *"La disciplina convierte el código en soluciones; el compromiso asegura su entrega completa y funcional."*
 
@@ -43,16 +46,26 @@ Desarrollador enfocado en **aplicaciones móviles y desarrollo de software**. Me
 
 ---
 
-## 🎓 Formación y Enfoque Profesional
+### 🎓 Formación & Enfoque Profesional
 
-- 🚀 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — *CEBEM*
-- 📱 **Especialización:** Desarrollo móvil nativo (Android/Java), interfaces modernas y persistencia de datos backend.
-- ⚡ **Metodología & Herramientas:** Trabajo ágil con **Scrum**, diseño de interfaces rápidas con **Tailwind CSS** y control de versiones con Git.
+- 🚀 **Grado Superior en DAM** — *CEBEM*
+- 📱 **Especialización:** Desarrollo móvil nativo (Android/Java), interfaces modernas y persistencia de datos.
+- ⚡ **Metodologías:** Trabajo ágil con **Scrum**, maquetación ágil con **Tailwind CSS** y control de versiones con Git.
 - 🎯 **Compromiso Real:** Rigor técnico, atención al detalle y enfoque orientado a finalizar cada requerimiento sin excepciones.
+
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <!-- Ilustración de programador trabajando exactamente a la derecha -->
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-314eb731-277a-4ec6-8a07-882255747683.gif" width="100%" style="max-width: 280px;" alt="Programador en escritorio" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
-## 🛠️ Stack Tecnológico y Herramientas
+## 🛠️ Stack Tecnológico & Herramientas
 
 <div align="center">
 
