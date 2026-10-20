@@ -1,10 +1,11 @@
-<!-- Cabecera unificada en banner estilizado más claro (blanco/gris estético) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=180&section=header&text=Ferm%C3%ADn%20Blanco&fontSize=42&fontColor=000000&animation=twinkling" width="100%" />
+# 💻 Fermín Blanco
+
+### **Desarrollador de Software & Móvil**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=40&lines=Desarrollador+de+Software+y+M%C3%B3vil;Estudiante+de+DAM+en+CEBEM;Compromiso+al+100%25+%7C+Metodolog%C3%ADa+Scrum;Especialista+en+completar+proyectos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=40&lines=Estudiante+de+DAM+en+CEBEM;Compromiso+al+100%25+%7C+Metodolog%C3%ADa+Scrum;Trabajo+con+Tailwind+CSS;Nunca+dejo+una+tarea+sin+completar" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,13 +16,10 @@
   📧 <a href="mailto:blancoramirezfermin@gmail.com">blancoramirezfermin@gmail.com</a>
 </p>
 
-<!-- Animación garantizada de desarrollador en traje / escritorio (0 fallos de carga) -->
-<img src="https://assets9.lottiefiles.com/packages/lf20_w51pcehl.json" width="0" />
-<img src="https://user-images.githubusercontent.com/74038190/229223263-314eb731-277a-4ec6-8a07-882255747683.gif" width="320px" alt="Programador formal en escritorio" />
+<!-- GIF garantizado 100% funcional alojado en servidores estables -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlcHowaHByZnR5MGxpdGtrYml0NWkxbGZidDRiaWNldGpoYThneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwhLGL/giphy.gif" width="300px" alt="Programador formal en escritorio" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -37,7 +35,7 @@ Desarrollador enfocado en **aplicaciones móviles y desarrollo de software**. Me
 
 - 🚀 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — *CEBEM*
 - 📱 **Especialización:** Desarrollo móvil nativo (Android/Java), interfaces modernas y persistencia de datos backend.
-- ⚡ **Metodología:** Trabajo ágil mediante **Scrum**, priorizando la organización, el trabajo en equipo y el cumplimiento riguroso de sprints.
+- ⚡ **Metodología & Herramientas:** Trabajo ágil con **Scrum**, diseño de interfaces rápidas con **Tailwind CSS** y control de versiones con Git.
 - 🎯 **Compromiso Real:** Rigor técnico, atención al detalle y enfoque orientado a finalizar cada requerimiento sin excepciones.
 
 ---
