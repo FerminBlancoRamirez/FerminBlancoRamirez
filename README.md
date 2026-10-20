@@ -1,23 +1,35 @@
+<!-- Banner Blanco/Claro Estilizado que engloba todo el encabezado -->
 <div align="center">
 
-# 💻 Fermín Blanco
+<svg width="100%" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="220" rx="16" fill="#FFFFFF"/>
+  <!-- Detalle estético superior en blanco brillante/gris tenue -->
+  <path d="M0 16C0 7.16344 7.16344 0 16 0H784C792.837 0 800 7.16344 800 16V50H0V16Z" fill="#F3F4F6"/>
+  
+  <!-- Texto del Nombre en el Banner Blanco -->
+  <text x="50%" y="85" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="800" font-size="38" fill="#111827" text-anchor="middle">Fermín Blanco</text>
+  
+  <!-- Subtítulo Profesional -->
+  <text x="50%" y="125" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="20" fill="#374151" text-anchor="middle">Desarrollador de Software &amp; Móvil</text>
+  
+  <!-- Formación y Especialidad -->
+  <text x="50%" y="160" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="500" font-size="15" fill="#4B5563" text-anchor="middle">Estudiante de DAM en CEBEM  |  100% Compromiso  |  Metodología Scrum</text>
+  
+  <!-- Datos de contacto -->
+  <text x="50%" y="190" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="500" font-size="14" fill="#6B7280" text-anchor="middle">📍 Vigo, Galicia   •   📧 blancoramirezfermin@gmail.com</text>
+</svg>
 
-### **Desarrollador de Software & Móvil**
+<br/><br/>
 
+<!-- Animación dinámica de texto en español justo debajo -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=40&lines=Estudiante+de+DAM+en+CEBEM;Compromiso+al+100%25+%7C+Metodolog%C3%ADa+Scrum;Trabajo+con+Tailwind+CSS;Nunca+dejo+una+tarea+sin+completar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=40&lines=Especialista+en+completar+proyectos;Manejo+de+Tailwind+CSS;Desarrollo+M%C3%B3vil+Android;Cero+tareas+sin+finalizar" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<p align="center">
-  📍 <b>Vigo, Galicia</b> &nbsp;•&nbsp; 
-  🎓 <b>CEBEM (DAM)</b> &nbsp;•&nbsp; 
-  📧 <a href="mailto:blancoramirezfermin@gmail.com">blancoramirezfermin@gmail.com</a>
-</p>
-
-<!-- GIF garantizado 100% funcional alojado en servidores estables -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlcHowaHByZnR5MGxpdGtrYml0NWkxbGZidDRiaWNldGpoYThneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwhLGL/giphy.gif" width="300px" alt="Programador formal en escritorio" />
+<!-- Animación GIF verificada y alineada centrada -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlcHowaHByZnR5MGxpdGtrYml0NWkxbGZidDRiaWNldGpoYThneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwhLGL/giphy.gif" width="300px" alt="Programador enfocado" />
 
 </div>
 
