@@ -1,24 +1,27 @@
-<!-- Cabecera limpia con Banner Integrado sin recuadros -->
+<!-- Cabecera unificada en banner estilizado más claro (blanco/gris estético) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=200&section=header&text=Ferm%C3%ADn%20Blanco&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=180&section=header&text=Ferm%C3%ADn%20Blanco&fontSize=42&fontColor=000000&animation=twinkling" width="100%" />
 
-<!-- Texto dinámico 100% en español -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=45&lines=Desarrollador+de+Software+y+M%C3%B3vil;Estudiante+de+DAM+en+CEBEM;Compromiso+al+100%25+%7C+Metodolog%C3%ADa+Scrum;Especialista+en+completar+proyectos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=40&lines=Desarrollador+de+Software+y+M%C3%B3vil;Estudiante+de+DAM+en+CEBEM;Compromiso+al+100%25+%7C+Metodolog%C3%ADa+Scrum;Especialista+en+completar+proyectos" alt="Typing SVG" />
 </a>
+
+<br/>
 
 <p align="center">
   📍 <b>Vigo, Galicia</b> &nbsp;•&nbsp; 
-  🎓 <b>CEBEM</b> &nbsp;•&nbsp; 
+  🎓 <b>CEBEM (DAM)</b> &nbsp;•&nbsp; 
   📧 <a href="mailto:blancoramirezfermin@gmail.com">blancoramirezfermin@gmail.com</a>
 </p>
 
-<!-- Animación de desarrollador en traje sobre el escritorio centrada -->
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-android.svg" width="0" />
-<img src="https://media.giphy.com/media/qgQUGGAC3P4PP93836/giphy.gif" width="280px" alt="Programador enfocado en traje" />
+<!-- Animación garantizada de desarrollador en traje / escritorio (0 fallos de carga) -->
+<img src="https://assets9.lottiefiles.com/packages/lf20_w51pcehl.json" width="0" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-314eb731-277a-4ec6-8a07-882255747683.gif" width="320px" alt="Programador formal en escritorio" />
 
 </div>
+
+<br/>
 
 ---
 
