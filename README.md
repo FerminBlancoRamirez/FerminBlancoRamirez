@@ -1,25 +1,40 @@
+<!-- BANNER BLANCO ELEGANTE Y UNIFICADO -->
 <div align="center">
 
-# 💻 Fermín Blanco
+<svg width="100%" height="210" viewBox="0 0 800 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo Blanco Pulcro con Borde Fino -->
+  <rect width="100%" height="210" rx="14" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="798" height="208" rx="13" stroke="#E2E8F0" stroke-width="2"/>
+  
+  <!-- Detalle estético superior gris tenue -->
+  <path d="M0 14C0 6.26801 6.26801 0 14 0H786C793.732 0 800 6.26801 800 14V42H0V14Z" fill="#F8FAFC"/>
+  
+  <!-- Nombre -->
+  <text x="50%" y="82" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="800" font-size="36" fill="#0F172A" text-anchor="middle" letter-spacing="1">FERMÍN BLANCO</text>
+  
+  <!-- Especialidad -->
+  <text x="50%" y="120" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="600" font-size="19" fill="#1E293B" text-anchor="middle">Desarrollador de Software &amp; Móvil</text>
+  
+  <!-- Formación y metodología -->
+  <text x="50%" y="154" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="500" font-size="14" fill="#475569" text-anchor="middle">Estudiante de DAM en CEBEM  |  Compromiso 100%  |  Metodología Scrum</text>
+  
+  <!-- Contacto -->
+  <text x="50%" y="182" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="500" font-size="13" fill="#64748B" text-anchor="middle">📍 Vigo, Galicia   •   📧 blancoramirezfermin@gmail.com</text>
+</svg>
 
-### **Desarrollador de Software & Móvil**
+<br/><br/>
 
+<!-- Animación de texto tipo typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&height=40&lines=Estudiante+de+DAM+en+CEBEM;Compromiso+al+100%25+%7C+Metodolog%C3%ADa+Scrum;Manejo+de+Tailwind+CSS;Nunca+dejo+una+tarea+sin+completar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=35&lines=Desarrollo+M%C3%B3vil+Android;Manejo+de+Tailwind+CSS;Cero+tareas+sin+finalizar;100%25+Enfoque+y+Seriedad+Profesional" alt="Typing SVG" />
 </a>
-
-<p align="center">
-  📍 <b>Vigo, Galicia</b> &nbsp;•&nbsp; 
-  🎓 <b>CEBEM (DAM)</b> &nbsp;•&nbsp; 
-  📧 <a href="mailto:blancoramirezfermin@gmail.com">blancoramirezfermin@gmail.com</a>
-</p>
-
-<!-- Ilustración limpia directamente alojada en GitHub CDN -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/coder.gif" width="340px" alt="Programador enfocado en su escritorio" />
 
 </div>
 
----
+<br/>
+
+<!-- GIF ALINEADO A LA DERECHA SIN MARCOS NI CUADRADOS -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/coder.gif" align="right" width="320px" alt="Programador formal" />
 
 ### 🖤 Resumen Ejecutivo & Filosofía de Trabajo
 
@@ -27,14 +42,16 @@
 
 Desarrollador enfocado en **aplicaciones móviles y desarrollo de software**. Me caracterizo por una seriedad absoluta y una ética de trabajo exigente: **nunca dejo una tarea sin terminar ni un proyecto a medias**. Aplico metódicamente buenas prácticas, código limpio y trabajo bajo metodologías ágiles (**Scrum**) para garantizar entregas en tiempo y forma.
 
----
+<br/>
 
 ### 🎓 Formación & Enfoque Profesional
 
-- 🚀 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — *CEBEM*
-- 📱 **Especialización:** Desarrollo móvil nativo (Android/Java), interfaces modernas y persistencia de datos backend.
-- ⚡ **Metodología & Herramientas:** Trabajo ágil con **Scrum**, diseño de interfaces rápidas con **Tailwind CSS** y control de versiones con Git.
+- 🚀 **Grado Superior en DAM** — *CEBEM*
+- 📱 **Especialización:** Desarrollo móvil nativo (Android/Java), interfaces modernas y persistencia de datos.
+- ⚡ **Metodologías:** Trabajo ágil con **Scrum**, maquetación ágil con **Tailwind CSS** y control de versiones con Git.
 - 🎯 **Compromiso Real:** Rigor técnico, atención al detalle y enfoque orientado a finalizar cada requerimiento sin excepciones.
+
+<br clear="right"/>
 
 ---
 
