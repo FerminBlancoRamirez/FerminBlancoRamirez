@@ -64,15 +64,15 @@ Desarrollador enfocado en **aplicaciones móviles y desarrollo de software**. Me
 <details open>
 <summary>📱 <b>Desarrollo Móvil</b></summary>
 
-* 📱 **[AppGimnasio](https://github.com/FerminBlancoRamirez/AppGimnasio):** Aplicación móvil nativa para la gestión integral y seguimiento de entrenamientos con arquitectura optimizada[cite: 1].
-* 📱 **[CalculadoraBasica](https://github.com/FerminBlancoRamirez/CalculadoraBasica):** Proyecto en Android Studio enfocado en el control preciso de eventos e interfaz de usuario[cite: 1].
+* 📱 **[AppGimnasio](https://github.com/FerminBlancoRamirez/AppGimnasio):** Aplicación móvil nativa para la gestión integral y seguimiento de entrenamientos con arquitectura optimizada.
+* 📱 **[CalculadoraBasica](https://github.com/FerminBlancoRamirez/CalculadoraBasica):** Proyecto en Android Studio enfocado en el control preciso de eventos e interfaz de usuario.
 </details>
 
 <details open>
 <summary>🗄️ <b>Backend, Datos y Web</b></summary>
 
-* 🗄️ **[AccesoADatos](https://github.com/FerminBlancoRamirez/AccesoADatos):** Prácticas e implementaciones sobre persistencia, conectores de bases de datos y gestión eficiente de archivos en Java[cite: 1].
-* 📅 **[Planificador](https://github.com/FerminBlancoRamirez/planificador):** Aplicación web interactiva desarrollada en JavaScript para la gestión estratégica de tareas y tiempos[cite: 1].
+* 🗄️ **[AccesoADatos](https://github.com/FerminBlancoRamirez/AccesoADatos):** Prácticas e implementaciones sobre persistencia, conectores de bases de datos y gestión eficiente de archivos en Java.
+* 📅 **[Planificador](https://github.com/FerminBlancoRamirez/planificador):** Aplicación web interactiva desarrollada en JavaScript para la gestión estratégica de tareas y tiempos.
 </details>
 
 ---
