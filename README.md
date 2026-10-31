@@ -72,7 +72,7 @@ Desarrollador enfocado en **aplicaciones móviles y desarrollo de software**. Me
 <summary>🗄️ <b>Backend, Datos y Web</b></summary>
 
 * 🗄️ **[AccesoADatos](https://github.com/FerminBlancoRamirez/AccesoADatos):** Prácticas e implementaciones sobre persistencia, conectores de bases de datos y gestión eficiente de archivos en Java.
-* 📅 **[Planificador](https://github.com/FerminBlancoRamirez/planificador):** Aplicación web interactiva desarrollada en JavaScript para la gestión estratégica de tareas y tiempos.
+* 📅 **[Blog de UFC](https://github.com/FerminBlancoRamirez/mma-blog):** Blog de UFC desarrollado con Astro, React y Tailwind en el que se publicaran las ultimas noticias acerca del universo UFC.
 </details>
 
 ---
