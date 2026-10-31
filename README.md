@@ -80,10 +80,8 @@ Desarrollador enfocado en **aplicaciones móviles y desarrollo de software**. Me
 ## 📊 Estadísticas en GitHub
 
 <div align="center">
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FerminBlancoRamirez&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerminBlancoRamirez&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" />
-
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FerminBlancoRamirez&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FerminBlancoRamirez&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
